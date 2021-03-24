@@ -6,7 +6,7 @@
 
 [bilibili](https://www.bilibili.com/)
 
-
+网络图片在link.md
 
 ![头像](G:\个人文件夹\Desktop\头像.jpg)
 
